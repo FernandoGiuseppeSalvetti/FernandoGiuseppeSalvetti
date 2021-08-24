@@ -1,4 +1,5 @@
-## Olá, meu nome é Fernando Giuseppe Salvetti, este é um repo onde eu armazeno todos os trabalhos que estou realizando durante a faculdade de Ciências da Computação
+## Olá, meu nome é Fernando Giuseppe Salvetti, tenho 22 anos.
+## Este é um repositório criado para armazenar os trabalhos que estou realizando durante a faculdade de Ciências da Computação.
  <div>
   <a href="https://github.com/FernandoGiuseppeSalvetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoGiuseppeSalvetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
